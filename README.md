@@ -1,7 +1,7 @@
 
 ## Todo List
 
-#####Réalisé avec React/React-Router & API JSONPlaceholder
+Réalisé avec React/React-Router & API JSONPlaceholder
 
 Lancer le projet:
 
